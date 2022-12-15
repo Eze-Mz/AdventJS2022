@@ -33,8 +33,8 @@ This repository is a collection my solutions to the challenges proposed by [@mid
 | 11  |       Santa Claus is Scrum Master        |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) | [See](./Challenges/reto11.js) |
 | 12  |          Electric sleighs, wow!          |       🟠       | [Show](https://adventjs.dev/challenges/2022/12) | [See](./Challenges/reto12.js) |
 | 13  |      Backups for Santa Claus files       |       🟢       | [Show](https://adventjs.dev/challenges/2022/13) | [See](./Challenges/reto13.js) |
-| 14  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/14) | [See](./Challenges/reto14.js) |
-| 15  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/15) | [See](./Challenges/reto15.js) |
+| 14  |              The best path               |       -        | [Show](https://adventjs.dev/challenges/2022/14) | [See](./Challenges/reto14.js) |
+| 15  |      Decorating the Christmas Tree       |       -        | [Show](https://adventjs.dev/challenges/2022/15) | [See](./Challenges/reto15.js) |
 | 16  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/16) | [See](./Challenges/reto16.js) |
 | 17  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/17) | [See](./Challenges/reto17.js) |
 | 18  |              Coming soon...              |       -        | [Show](https://adventjs.dev/challenges/2022/18) | [See](./Challenges/reto18.js) |
